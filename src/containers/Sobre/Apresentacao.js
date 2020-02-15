@@ -9,7 +9,7 @@ class Apresentacao extends Component {
             <section className="container">
                 <div className="row align-items-end">
                         <div className="d-inline-flex p-2 bd-highlight mx-auto d-block pb-1">
-                        <img className="img-fluid" src={Lixeira} />
+                        <img className="img-fluid" src={Lixeira} alt="Lixeira com lixo eletrônico." />
                         </div>
                         <div className="col-sm">
                           <h1 className="display-5">O Lixo Eletrônico no Brasil</h1>

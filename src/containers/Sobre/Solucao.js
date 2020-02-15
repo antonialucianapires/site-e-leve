@@ -14,7 +14,7 @@ class Solucao extends Component {
                           <p className="lead">Nós, desenvolvedores desse projeto, acreditamos que, muito mais do que uma simples ferramenta, o e-Leve é um motor de transformação.</p>
                         </div>
                         <div className="d-inline-flex p-2 bd-highlight mx-auto d-block pb-1">
-                        <img className="img-fluid" src={Ilustracao} />
+                        <img className="img-fluid" src={Ilustracao} alt="Desenho com pessoas montando um aplicativo." />
                         </div>
                     </div>
                     </section>
