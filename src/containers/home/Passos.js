@@ -18,7 +18,7 @@ class Passos extends Component {
                 </div>
                 <div className="card-columns">
                 <Card imagem={Desconto} titulo="Desconto" descricao="Após a validação, os pontos poderão ser utilizados como desconto em estabelecimentos parceiros."/>
-                <Card imagem={Envio} titulo="Envio" descricao="O ponto de coleta separa 2% do que foi coletado para entregar às oficinas de remontagem."/>
+                <Card imagem={Envio} titulo="Envio" descricao="O ponto de coleta separa 2 a cada 10 lixos eletrônicos coletados para entregar às oficinas de remontagem."/>
                 <Card imagem={Impacto} titulo="Impacto" descricao="Pronto! Você contribuiu para salvar o meio ambiente e impactar na educação de jovens e adultos."/>
                 </div>
             </section>
