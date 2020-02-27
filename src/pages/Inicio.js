@@ -8,7 +8,7 @@ class Inicio extends Component {
     render() {
         return (
         <section>
-            <Introducao />
+            <Introducao id="conteudo" />
             <Passos />
             <Parceiros />
             <Parceria />

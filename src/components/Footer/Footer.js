@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
     return (
         <section className="container-fluid p-0 " style={{ backgroundColor: "#009688", color: "#fff" }}>
-            <footer class="page-footer font-small indigo">
+            <footer class="page-footer font-small indigo" id="rodape">
                 <div class="container">
                     <div class="row text-center d-flex justify-content-center pt-5 mb-3">
                         <div class="col-md-2 mb-3">
@@ -16,6 +16,11 @@ const Footer = () => {
                         <div class="col-md-2 mb-3">
                             <h6 class="text-uppercase font-weight-bold">
                                 <Link to="/sobre" style={{ color: "#fff" }}>Sobre</Link>
+                            </h6>
+                        </div>
+                        <div class="col-md-2 mb-3">
+                            <h6 class="text-uppercase font-weight-bold">
+                                <Link to="/acessibilidade" style={{ color: "#fff" }}>Acessibilidade</Link>
                             </h6>
                         </div>
                         <div class="col-md-2 mb-3">

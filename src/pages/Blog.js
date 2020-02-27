@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 class Blog extends Component {
     render() {
-        return <h1>Blog</h1>
+        return <h1 id="conteudo">Blog</h1>
     }
 }
 
