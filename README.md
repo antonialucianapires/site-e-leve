@@ -8,4 +8,4 @@ e-Leve é um aplicativo mobile que conecta pontos de coleta de lixo eletrônico 
 Acesse o nosso site: https://e-leve-new.netlify.com/
 
 ### Start
-Para rodar esse projeto, faça o clone, baixe as dependências com o <i>nom install</i> e, em seguida, <i>npm start</i>
+Para rodar esse projeto, faça o clone, baixe as dependências com o <i>npm install</i> e, em seguida, <i>npm start</i>
