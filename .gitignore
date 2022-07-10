@@ -1,7 +1,6 @@
 node_modules/
 # Created by https://www.gitignore.io/api/node,react,visualstudio
 # Edit at https://www.gitignore.io/?templates=node,react,visualstudio
-
 ### Node ###
 # Logs
 logs
@@ -470,3 +469,5 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/node,react,visualstudio
+node_modules
+node_modules
